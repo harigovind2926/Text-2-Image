@@ -1,0 +1,13 @@
+cd C:\hari\AI
+venv\Scripts\activate
+cd Backend
+uvicorn main:app --port 8000
+
+
+
+
+
+cd C:\hari\AI
+venv\Scripts\activate
+cd Frontend
+python ui.py
